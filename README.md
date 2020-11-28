@@ -20,7 +20,7 @@ The names *do not necessarily need to precisely match the Chinese names*; it can
 
 ### Which map names to translate? / 翻译哪些地图的名称？
 
-Theoretically all map names should be translated; however, since different maps have different quality and thus different popularity, only names of those included in the map pack and some recent high-quality maps (not yet to be included in the map pack) need to be translated. 
+Theoretically all map names should be translated; however, since different maps have different quality and thus different popularity, only names of those included in the map pack and some recent high-quality maps (not yet to be included in the map pack) need to be translated. / 理论上，所有地图的名称均需要翻译；不过，因为不同地图的质量不同，知名度因此也不同，只有地图包内包含的地图以及最新的高质量地图的名称需要翻译。
 
 ### Where to get a list of these maps? / 从哪里获取地图列表？
 
