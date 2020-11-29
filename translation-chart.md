@@ -2,18 +2,18 @@
 
 Unnecessary version numbers in names should be simplified or dropped.
 
-Machine translations should come from [Google Translate](https://translate.google.com); they are listed here for auxiliary purposes, no matter how inaccurate and *ridiculous* they seem to be. As non-Chinese users may find it difficult to recognize Chinese characters, or their devices simply cannot display these, machine translators are their only option.
+Machine translations should come from [Google Translate](https://translate.google.com); they are listed here for auxiliary purposes, no matter how inaccurate and *ridiculous* they seem to be. As non-Chinese users may find it difficult to distinguish different Chinese characters, or their devices simply cannot display them, machine translators are their only option.
 
-| Original Name | English Name | Machine Translation | Other Names |
+| Original Name | English Name | *Machine Translation* | Other Names |
 | ---- | ---- | ---- | ---- |
 | 大恒乐园 | *Daheng Paradise* | Daheng Paradise* | - |
 | 四面楚歌2 | 
 | 萤火之森 | *Firefly Forest* | CV | - |
 | 2010年代 | *The 2010s* | 2010s | - |
 | 星罗棋布 (星汉乾坤2) |
-| 天穹之旅 | A journey to the sky | Sky Tour | The travel under the sky dome |
+| 天穹之旅 | *A journey to the sky* | Sky Tour | The travel under the sky dome |
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
-| 镜花水月 |
+| 镜花水月 | - | Mirror flower water moon | The moon mirrored in the water |
 | 暮光之城 | *The Twilight City* | Twilight | - |
 | 平衡大厦立体迷宫（简单版） |
 | *Hevel_11* | - | - | - |
@@ -82,18 +82,18 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 大恒棋局 |
 | 大恒逻技 | *Daheng Skillogic* | Daheng Logic | - |
 | 191001新新图 |
-| 大恒图2.0 |
-| 大恒图1.1 |
-| 逻辑绕绕图2.0 |
+| 大恒图2 |
+| 大恒图1 |
+| 逻辑绕绕图2 | - | Logic diagram 2 | Logic Detour 2 |
 | 平衡朋克2019 |
 | 轮回之旅2 |
 | 荣耀之盟 |
-| 机械迷阵V1.2 |
-| 全家福2 |
-| 乾坤五极 |
+| 机械迷阵 | Mazes of machines | Mechanical maze | - |
+| 全家福2 | Family Portrait 2 | Family Portrait 2 | - |
+| 乾坤五极（五边形） | - | Five poles of the universe (pentagon) | The five poles of the universe |
 | *Hevel_10* | - | - | - |
-| Ballance制图视频教程演示关卡 |
-| 逻辑绕绕图 |
+| Ballance制图视频教程演示关卡 | Mapping tutorial map | Ballance drawing video tutorial demo level | - |
+| 逻辑绕绕图 | - | Logic diagram | Logic Detour |
 | 完美思维3–场景版 |
 | 2019新地图 |
 | 时空幻境弃坑版 |
