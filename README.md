@@ -1,4 +1,4 @@
-# [Ballance](https://en.wikipedia.org/wiki/Ballance) Custom Map Names Translation
+# [Ballance](https://en.wikipedia.org/wiki/Ballance) Custom Map Name Translations
 
 Translate all Ballance custom level/map names into English and possibly, other languages. / 翻译全部现有 Ballance 自制地图的名称至英文（以及可能其他更多语言）。
 
@@ -26,8 +26,8 @@ Theoretically all map names should be translated; however, since different maps 
 
 From [Ballance Map Download Site](http://ballancemaps.ys168.com), which contains exactly all the maps we need. / 从 [Ballance 地图下载站](http://ballancemaps.ys168.com)。这里恰好有我们需要的全部地图。
 
-Additionally, BCRC has [a page which catches the map list and processes it for searching purposes](https://bcrc.info/maps/), from which a clean map list can be acquired. / 并且，BCRC 上有一个[抓取地图列表并处理以便用于搜索的页面](https://bcrc.info/maps/)，从这里可以获取整洁的地图列表。
+Additionally, BCRC has [a page that fetches the map list and processes it for searching purposes](https://bcrc.info/maps/), from which a clean map list can be acquired. / 并且，BCRC 上有一个[抓取地图列表并处理以便用于搜索的页面](https://bcrc.info/maps/)，从这里可以获取整洁的地图列表。
 
 ## Layout / 布局
 
-List the Chinese name, the final English (or more languages) name, translation by translators, and common past translations. / 列出中文名称、最终的英文（或更多语言）名称、翻译器的译名，以及过去常见的译名。
+List the Chinese name, the final English (or more languages) name, translation by translators, and common past translations in [**translation-chart.md**](translation-chart.md). / 在 [**translation-chart.md**](translation-chart.md) 中列出中文名称、最终的英文（或更多语言）名称、翻译器的译名，以及过去常见的译名。

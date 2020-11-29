@@ -1,11 +1,13 @@
 **Note**: names of maps which already come with an English name, or have a creator-selected English name, are normally not translated again. 
 
-Translator names should come from Google Translate.
+Unnecessary version numbers in names should be simplified or omitted.
+
+Translator names should come from [Google Translate](https://translate.google.com).
 
 | Original name | English name | Translator | Other names |
 | ---- | ---- | ---- | ---- |
 | 大恒乐园 |
-| 四面楚歌2.0 |
+| 四面楚歌2 |
 | 萤火之森 |
 | 2010年代 | *The 2010s* | - | - |
 | 星罗棋布 (星汉乾坤2) |
@@ -13,22 +15,22 @@ Translator names should come from Google Translate.
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
 | 镜花水月 |
 | 暮光之城 |
-| 平衡大厦立体迷宫（简单版）v1.1.2 |
+| 平衡大厦立体迷宫（简单版） |
 | *Hevel_11* | - | - | - |
 | 平衡帝国 |
-| 绝望之都2.0 |
-| 蓝星2：空间工业区 |
+| 绝望之都2 |
+| 蓝星2：空间工业区 | *Blue Star II: Industrial Area in Space* | Blue Star 2: Space Industrial Zone | - |
 | 东方夜谭 | *Eastern Nights* | Oriental Night Tan | - |
 | 超·力量V5.0 |
 | Ballance嘉年华V1.1 |
 | 疯狂机关Ⅱ |
 | 城市街道 |
-| 浮空岛V1.0 |
+| 浮空岛 |
 | 星际迷航 (Demo) |
 | 时空幻境 |
-| 紧张图V2.0 |
+| 紧张图2 |
 | 创意平衡 |
-| 勇往直前V3.0 |
+| 勇往直前3 |
 | 魔脓空间站 | *Monong Space Station* | Devil Space Station | Moneng Space |
 | 双重路径 |
 | 魔虬 | *The Devil Dragon* | Moqiu | Moqiu; Mo Qiu |
@@ -65,14 +67,14 @@ Translator names should come from Google Translate.
 | “四中挑战”系列 (01~09) |
 | 云顶之弈 |
 | 勇往直前4 |
-| 您先别急1.1 |
+| 您先别急 |
 | 大恒战旗—仿原 |
 | 大恒战旗—时机 |
 | 大恒战旗—搬运 |
 | 星幻云阶 |
 | 天宫街市 |
 | 四面楚歌 |
-| 龙战鱼骇V1.2 |
+| 龙战鱼骇 |
 | 大恒战旗—速度 |
 | 大恒战旗—层次 |
 | 大恒战旗—捷径 |
@@ -95,14 +97,14 @@ Translator names should come from Google Translate.
 | 完美思维3–场景版 |
 | 2019新地图 |
 | 时空幻境弃坑版 |
-| 平衡迷城V1.3 |
-| 平衡环线V1.3 |
+| 平衡迷城 |
+| 平衡环线 |
 | 国庆小图 |
 | 堤基路坝 |
 | 希望之城 |
 | 危险路段 |
-| 我的平衡世界V1.0 |
-| 地月穿梭V1.2 |
+| 我的平衡世界 |
+| 地月穿梭 |
 | *I wanna pass the level* | - | - | - |
 | 平衡小坑V2.0 |
 | 谜之空屿 |
@@ -118,18 +120,18 @@ Translator names should come from Google Translate.
 | 失落之城 |
 | 嘉年华2（极难版） |
 | 惊悚图 |
-| 平衡大厦立体迷宫（困难版——围城）v1.3.2 |
-| 平衡大厦立体迷宫（困难版——盲打）v1.2.2 |
-| 平衡小径4.0 |
+| 平衡大厦立体迷宫（困难版——围城） |
+| 平衡大厦立体迷宫（困难版——盲打） |
+| 平衡小径4 |
 | 180519图 | *"180519"* | - | - |
-| 月光穿梭2.0 |
-| 蓝星序曲V1.3 |
+| 月光穿梭2 |
+| 蓝星：序曲 | *Blue Star: The Overture* | Blue Star: Overture | - |
 | 暂无名图 |
-| 娱乐仿真图3.0 |
-| 娱乐仿真图2.0 |
+| 娱乐仿真图3 |
+| 娱乐仿真图2 |
 | 娱乐仿真图 |
-| 仿真测试图3.0 |
-| 仿真测试图2.0 |
+| 仿真测试图3 |
+| 仿真测试图2 |
 | 仿真测试图 |
 | 天域迷径 | *Skyland Mazes* | Sky maze | - |
 | 天地浮沉 | *Floating in Space* | Ups and downs | - |
@@ -140,25 +142,25 @@ Translator names should come from Google Translate.
 | *Small Level 1* | - | - | - |
 | 星汉乾坤 |
 | 不会单轨的痛你会懂 |
-| 新视野之旅v1.1 |
-| 平衡玉川V2.1 |
-| 伪·力量V4.4 |
-| 恐怖迷宫V1.2 |
+| 新视野之旅 |
+| 平衡玉川2 |
+| 伪·力量4 |
+| 恐怖迷宫 |
 | 思维迷阵 |
-| 1-13合体.zip |
+| 1-13合体 |
 | Ballance嘉年华2.5 |
 | 十字街道(终极考核) |
 | 十字街道(正式版) |
 | 平衡试卷 |
-| 紧张图V3.1 |
-| 紧张图V3.2 |
-| 紧张图V3.3 |
-| 平衡小径2.2 |
-| 平衡小径3.2 |
-| 平衡小径1.2 |
+| 紧张图3.1 |
+| 紧张图3.2 |
+| 紧张图3.3 |
+| 平衡小径2 |
+| 平衡小径3 |
+| 平衡小径1 |
 | *Easy-small* | - | - | - |
 | 平衡小坑 |
-| （仿真地图）平衡佳宴V1.0 |
+| 平衡佳宴 |
 | 平衡视窗v1.1 |
 | 脑力小考3 |
 | 脑力小考2 |
@@ -166,16 +168,16 @@ Translator names should come from Google Translate.
 | 秋千练习图 |
 | 云之彼端 |
 | *Ballance Happy paradise* | - | - | - |
-| 紧张图1.0 |
+| 紧张图1 |
 | 茉莉思考 |
-| 纸球他要飞V2.0 |
-| 谨慎思考V2.0 |
+| 纸球他要飞2 |
+| 谨慎思考2 |
 | 挑战极限 |
 | 探险之路 |
 | 绝望之都 |
-| 死亡边缘V3.0 |
-| 唯一路径V1.1 |
-| 平衡玉川V1.0 |
+| 死亡边缘3 |
+| 唯一路径 |
+| 平衡玉川 |
 | 智慧迷局 |
 | 谨慎思考 |
 | *My own level* | - | - | - |
@@ -183,26 +185,26 @@ Translator names should come from Google Translate.
 | 迷你路径 |
 | 无语图 |
 | 小小图 |
-| 死亡边缘V2.0 |
+| 死亡边缘2 |
 | 混乱世界 |
 | 平衡密码 |
 | 诡衡 |
 | 死亡蜕变 |
-| 完美思维V2.0 |
-| 演示地图V1.0 |
-| 演示地图V2.0 |
-| 力量1.0（重做版） |
+| 完美思维2 |
+| 演示地图1 |
+| 演示地图2 |
+| 力量1（重做版） |
 | 淡定图 |
 | 近在咫尺 |
 | 双轨世界 |
 | 秘密行走 |
-| 单轨世界V2.0 |
-| 单轨世界V1.0 |
+| 单轨世界2 |
+| 单轨世界1 |
 | 急速滚球-跳跃世界 |
 | 急速滚球-穿梭迷城 |
 | *Ballance Wooden* | - | - | - |
-| 急速翻滚V1.0 |
-| 急速翻滚V2.0 |
+| 急速翻滚1 |
+| 急速翻滚2 |
 | 未命名图 |
 | 危机地带 |
 | 钢轨迷宫 |
@@ -212,16 +214,16 @@ Translator names should come from Google Translate.
 | *Space Rail* (1, 2, 3) | - | - | - |
 | 全家福 |
 | 脑力风暴 |
-| 完美思维V1.0 |
-| 死亡边缘V1.0 |
-| 伪力量V3.0 |
+| 完美思维1 |
+| 死亡边缘1 |
+| 伪力量3 |
 | 急速下坠（困难版） |
 | 急速下坠（普通版） |
-| 伪能力V1.0 |
-| 伪能力V2.0 |
+| 伪能力1 |
+| 伪能力2 |
 | 垂直迷阵 |
-| 勇往直前V1.0 |
-| 勇往直前V2.0 |
+| 勇往直前1 |
+| 勇往直前2 |
 | 灰城勿扰 |
 | 太太乐鸡(精) |
 | 天马行空 |
@@ -231,15 +233,15 @@ Translator names should come from Google Translate.
 | BT图 |
 | 十字升降 |
 | 蜜汁图 |
-| 挑战250 V1.0 |
-| 挑战250 V2.0 |
+| 挑战250 1 |
+| 挑战250 2 |
 | 新新关卡 |
 | 迷阵关卡 |
 | 美丽图 |
 | 美丽美丽材质图 |
-| 不走回头路V1.0 |
-| 不走回头路V2.0 |
-| 不走回头路V3.0 |
+| 不走回头路1 |
+| 不走回头路2 |
+| 不走回头路3 |
 | 棒冰图 |
 | 小小迷宫 |
 | 脓图 |
