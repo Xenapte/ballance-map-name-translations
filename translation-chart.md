@@ -6,7 +6,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 
 | Original Name | English Name | *Machine Translation* | Other Names |
 | ---- | ---- | ---- | ---- |
-| 大恒乐园 | *Daheng Paradise* | Daheng Paradise* | - |
+| 大恒乐园 | *Daheng Paradise* | Daheng Paradise | - |
 | 四面楚歌2 | 
 | 萤火之森 | *Firefly Forest* | CV | - |
 | 2010年代 | *The 2010s* | 2010s | - |

@@ -30,4 +30,8 @@ Additionally, BCRC has [a page that fetches the map list and processes it for se
 
 ## Layout / 布局
 
-List the Chinese name, the final English (or more languages) name, translation by translators, and common past translations in [**translation-chart.md**](translation-chart.md). / 在 [**translation-chart.md**](translation-chart.md) 中列出中文名称、最终的英文（或更多语言）名称、翻译器的译名，以及过去常见的译名。
+List the Chinese names, the final English (or more languages) names, machine translations, and common past translations in [**translation-chart.md**](translation-chart.md). / 在 [**translation-chart.md**](translation-chart.md) 中列出中文名称、最终的英文（或更多语言）名称、翻译器的译名，以及过去常见的译名。
+
+## Aim / 目标
+
+Publish a map pack with all map file names translated into English (or more languages); set up a multi-language version of the current [Ballance Map Download Site](http://ballancemaps.ys168.com). / 发布一个文件名全部翻译为英文（或更多语言）的地图包；设立当前 [Ballance 地图下载站](http://ballancemaps.ys168.com)的多语言版本。
