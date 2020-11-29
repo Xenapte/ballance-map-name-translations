@@ -4,11 +4,11 @@ Unnecessary version numbers in names should be simplified or dropped.
 
 Translator names should come from [Google Translate](https://translate.google.com).
 
-| Original name | English name | Translator | Other names |
+| Original Name | English Name | Machine Translated | Other Names |
 | ---- | ---- | ---- | ---- |
-| 大恒乐园 |
-| 四面楚歌2 |
-| 萤火之森 |
+| 大恒乐园 | *Big Heng's Paradise* |
+| 四面楚歌2 | 
+| 萤火之森 | *Firefly Forest* |
 | 2010年代 | *The 2010s* | - | - |
 | 星罗棋布 (星汉乾坤2) |
 | 天穹之旅 |
@@ -22,11 +22,11 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 蓝星2：空间工业区 | *Blue Star II: Industrial Area in Space* | Blue Star 2: Space Industrial Zone | - |
 | 东方夜谭 | *Eastern Nights* | Oriental Night Tan | - |
 | 超·力量V5.0 |
-| Ballance嘉年华V1.1 |
-| 疯狂机关Ⅱ |
+| Ballance嘉年华V1.1 | *Ballance Carnival V1.1* |
+| 疯狂机关Ⅱ | *Crazy Mechanisms Ⅱ* |
 | 城市街道 |
 | 浮空岛 | *The Floating Islands* | Floating island | - |
-| 星际迷航 (Demo) |
+| 星际迷航 (Demo) | *Star Trek (Demo)*
 | 时空幻境 |
 | 紧张图2 | *Nervouser's Map 2* | Tension Figure 2 | Nervous II; Tension 2 |
 | 创意平衡 |
