@@ -11,20 +11,20 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 萤火之森 | *Firefly Forest* | CV | - |
 | 2010年代 | *The 2010s* | 2010s | - |
 | 星罗棋布 (星汉乾坤2) |
-| 天穹之旅 |
+| 天穹之旅 | A journey to the sky | Sky Tour | The travel under the sky dome |
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
 | 镜花水月 |
 | 暮光之城 | *The Twilight City* | Twilight | - |
 | 平衡大厦立体迷宫（简单版） |
 | *Hevel_11* | - | - | - |
-| 平衡帝国 |
+| 平衡帝国 | *Ballance Empire* | Balanced empire | - |
 | 绝望之都2 |
 | 蓝星2：空间工业区 | *Blue Star II: Industrial Area in Space* | Blue Star 2: Space Industrial Zone | - |
 | 东方夜谭 | *Eastern Nights* | Oriental Night Tan | - |
 | 超·力量V5.0 |
 | Ballance嘉年华V1.1 | *Ballance Carnival V1.1* | Ballance Carnival V1.1 | - |
 | 疯狂机关Ⅱ | *Crazy Traps II* | Crazy Trap II | - |
-| 城市街道 |
+| 城市街道 | *City Streets* | City street | - |
 | 浮空岛 | *The Floating Islands* | Floating island | - |
 | 星际迷航 (Demo) | *Star Trek (Demo)* | Star Trek (Demo) | - |
 | 时空幻境 |
@@ -49,7 +49,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 望星城 |
 | 地狱迷宫 |
 | 斯卡布罗集市 | *Scarborough Fair* | - | - |
-| 游戏人生 |
+| 游戏人生 | *No Game No Life* | Game of Life | - |
 | 踏破虚空 |
 | 萌新快乐图 |
 | 三箱迷阵 |
@@ -58,13 +58,13 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 虚实世界-工厂 |
 | 虚实世界-奶茶 |
 | 虚实世界-货仓 |
-| 逻辑时代 |
+| 逻辑时代 | *Evolution of puzzle-solving* | Logical age | - |
 | 200516图 | *"200516"* | - | - |
 | 谜域雾都 |
 | 大恒战旗Extra |
 | 大恒战旗—即兴 |
 | 大恒战旗—星斗 |
-| “四中挑战”系列 (01~09) |
+| “四中挑战”系列 (01~09) | *Sizhong Challenges* (01~09) | Four Challenges | - |
 | 云顶之弈 |
 | 勇往直前4 |
 | 您先别急 |
@@ -117,7 +117,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 巅峰时刻 |
 | 半个新图 |
 | 图纸图 |
-| 失落之城 |
+| 失落之城 | The Lost City | Lost City | - |
 | 嘉年华2（极难版） |
 | 惊悚图 |
 | 平衡大厦立体迷宫（困难版——围城） |
@@ -145,7 +145,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 新视野之旅 |
 | 平衡玉川2 |
 | 伪·力量4 |
-| 恐怖迷宫 | The Horrible Maze | Horror maze | - |
+| 恐怖迷宫 | *The Horrible Maze* | Horror maze | - |
 | 思维迷阵 |
 | 1-13合体 |
 | Ballance嘉年华2.5 |
@@ -186,7 +186,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 无语图 |
 | 小小图 |
 | 死亡边缘2 |
-| 混乱世界 | Chaotic World | Chaotic world | - |
+| 混乱世界 | *Chaotic World* | Chaotic world | - |
 | 平衡密码 |
 | 诡衡 |
 | 死亡蜕变 |
@@ -206,7 +206,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 急速翻滚1 |
 | 急速翻滚2 |
 | 未命名图 |
-| 危机地带 | Dangerous Area | Crisis zone | - |
+| 危机地带 | *Dangerous Area* | Crisis zone | - |
 | 钢轨迷宫 |
 | 钢轨雾都 |
 | 七号迷城 |
