@@ -2,14 +2,14 @@
 
 Unnecessary version numbers in names should be simplified or dropped.
 
-Translator names should come from [Google Translate](https://translate.google.com).
+Machine translations should come from [Google Translate](https://translate.google.com); they are listed here for auxiliary purposes, no matter how inaccurate and *ridiculous* they seem to be. As non-Chinese users may find it difficult to recognize Chinese characters, or their devices simply cannot display these, machine translators are their only option.
 
-| Original Name | English Name | Machine Translated | Other Names |
+| Original Name | English Name | Machine Translation | Other Names |
 | ---- | ---- | ---- | ---- |
-| 大恒乐园 | *Daheng's Paradise* | - | - |
+| 大恒乐园 | *Daheng Paradise* | Daheng Paradise* | - |
 | 四面楚歌2 | 
-| 萤火之森 | *Firefly Forest* | - | - |
-| 2010年代 | *The 2010s* | - | - |
+| 萤火之森 | *Firefly Forest* | CV | - |
+| 2010年代 | *The 2010s* | 2010s | - |
 | 星罗棋布 (星汉乾坤2) |
 | 天穹之旅 |
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
@@ -22,11 +22,11 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 蓝星2：空间工业区 | *Blue Star II: Industrial Area in Space* | Blue Star 2: Space Industrial Zone | - |
 | 东方夜谭 | *Eastern Nights* | Oriental Night Tan | - |
 | 超·力量V5.0 |
-| Ballance嘉年华V1.1 | *Ballance Carnival V1.1* |
-| 疯狂机关Ⅱ | *Crazy Mechines II* | - | - |
+| Ballance嘉年华V1.1 | *Ballance Carnival V1.1* | Ballance Carnival V1.1 | - |
+| 疯狂机关Ⅱ | *Crazy Traps II* | Crazy Trap II | - |
 | 城市街道 |
 | 浮空岛 | *The Floating Islands* | Floating island | - |
-| 星际迷航 (Demo) | *Star Trek (Demo)* | - | - |
+| 星际迷航 (Demo) | *Star Trek (Demo)* | Star Trek (Demo) | - |
 | 时空幻境 |
 | 紧张图2 | *Nervouser's Map 2* | Tension Figure 2 | Nervous II; Tension 2 |
 | 创意平衡 |
@@ -80,7 +80,7 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 大恒战旗—捷径 |
 | 大恒棋局Extra |
 | 大恒棋局 |
-| 大恒逻技 | *Daheng Skillogic* |
+| 大恒逻技 | *Daheng Skillogic* | Daheng Logic | - |
 | 191001新新图 |
 | 大恒图2.0 |
 | 大恒图1.1 |
@@ -145,7 +145,7 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 新视野之旅 |
 | 平衡玉川2 |
 | 伪·力量4 |
-| 恐怖迷宫 |
+| 恐怖迷宫 | The Horrible Maze | Horror maze | - |
 | 思维迷阵 |
 | 1-13合体 |
 | Ballance嘉年华2.5 |
@@ -186,7 +186,7 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 无语图 |
 | 小小图 |
 | 死亡边缘2 |
-| 混乱世界 |
+| 混乱世界 | Chaotic World | Chaotic world | - |
 | 平衡密码 |
 | 诡衡 |
 | 死亡蜕变 |
@@ -206,7 +206,7 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 急速翻滚1 |
 | 急速翻滚2 |
 | 未命名图 |
-| 危机地带 |
+| 危机地带 | Dangerous Area | Crisis zone | - |
 | 钢轨迷宫 |
 | 钢轨雾都 |
 | 七号迷城 |

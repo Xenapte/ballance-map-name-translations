@@ -1,6 +1,6 @@
 # [Ballance](https://en.wikipedia.org/wiki/Ballance) Custom Map Name Translations
 
-Translate all Ballance custom level/map names into English and possibly, other languages. / 翻译全部现有 Ballance 自制地图的名称至英文（以及可能其他更多语言）。
+Translate all Ballance custom level/map names into English and possibly, more languages. / 翻译全部现有 Ballance 自制地图的名称至英文（以及可能其他更多语言）。
 
 ## Introduction / 介绍
 
@@ -12,7 +12,7 @@ Furthermore, with the Chinese-character custom map crash bug of the (relatively)
 
 ### Plan / 计划
 
-Provide each map with a **single reasonable** English (or more languages) name while listing all other past used translations. / 为每张自制地图提供**一个合理的**英语（或其他）名称的同时列出它们过去曾经使用过的译名。
+Provide each map with a **single reasonable** English (or more languages) name while listing all other past used translations. / 为每张自制地图提供**一个合理的**英语（或更多语言）名称的同时列出它们过去曾经使用过的译名。
 
 The names *do not necessarily need to precisely match the Chinese names*; it can be renamed in correspondence to the content of the maps to achieve better results (consult with the map makers at first). / 译名*并非需要准确对应中文原名*，可以对应着地图的实际内容重新起名（最好先和地图作者协商），以便获得更好的结果。
 
