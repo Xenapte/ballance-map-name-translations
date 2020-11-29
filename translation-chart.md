@@ -1,6 +1,6 @@
 **Note**: names of maps which already come with an English name, or have a creator-selected English name, are normally not translated again. 
 
-Unnecessary version numbers in names should be simplified or omitted.
+Unnecessary version numbers in names should be simplified or dropped.
 
 Translator names should come from [Google Translate](https://translate.google.com).
 
@@ -14,7 +14,7 @@ Translator names should come from [Google Translate](https://translate.google.co
 | 天穹之旅 |
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
 | 镜花水月 |
-| 暮光之城 |
+| 暮光之城 | *The Twilight City* | Twilight | - |
 | 平衡大厦立体迷宫（简单版） |
 | *Hevel_11* | - | - | - |
 | 平衡帝国 |
@@ -25,24 +25,24 @@ Translator names should come from [Google Translate](https://translate.google.co
 | Ballance嘉年华V1.1 |
 | 疯狂机关Ⅱ |
 | 城市街道 |
-| 浮空岛 |
+| 浮空岛 | *The Floating Islands* | Floating island | - |
 | 星际迷航 (Demo) |
 | 时空幻境 |
-| 紧张图2 |
+| 紧张图2 | *Nervouser's Map 2* | Tension Figure 2 | Nervous II; Tension 2 |
 | 创意平衡 |
 | 勇往直前3 |
 | 魔脓空间站 | *Monong Space Station* | Devil Space Station | Moneng Space |
-| 双重路径 |
+| 双重路径 | *Double Path* | Dual path | - |
 | 魔虬 | *The Devil Dragon* | Moqiu | Moqiu; Mo Qiu |
 | 绿坝图 |
 | 新春地图 |
 | 歧径 |
 | 云幻天桥 |
-| 迈出这一步 | *Take the leap* |
+| 迈出这一步 | *Take the leap* | Take this step | - |
 | *I Wanna Play Ballance* | - | - | - |
 | 秋明道（2020年8月23日公测） |
 | 200626图 |
-| 彷徨梦 | *Back and Forth - A Lucid Dream* |
+| 彷徨梦 | *Back and Forth - A Lucid Dream* | Hesitating dream | - |
 | 晓雾将歇 |
 | 危崖边境 |
 | *All-We-Know* | - | - | - |
