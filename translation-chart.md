@@ -1,4 +1,6 @@
-**Note**: names of maps which already come with an English name, or have a creator-selected English name, are normally not translated again.
+**Note**: names of maps which already come with an English name, or have a creator-selected English name, are normally not translated again. 
+
+Translator names should come from Google Translate.
 
 | Original name | English name | Translator | Other names |
 | ---- | ---- | ---- | ---- |
@@ -8,7 +10,7 @@
 | 2010年代 | *The 2010s* | - | - |
 | 星罗棋布 (星汉乾坤2) |
 | 天穹之旅 |
-| 穿云之箭 (190518图) |
+| 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
 | 镜花水月 |
 | 暮光之城 |
 | 平衡大厦立体迷宫（简单版）v1.1.2 |
@@ -16,7 +18,7 @@
 | 平衡帝国 |
 | 绝望之都2.0 |
 | 蓝星2：空间工业区 |
-| 东方夜谭 |
+| 东方夜谭 | *Eastern Nights* | Oriental Night Tan | - |
 | 超·力量V5.0 |
 | Ballance嘉年华V1.1 |
 | 疯狂机关Ⅱ |
@@ -27,9 +29,9 @@
 | 紧张图V2.0 |
 | 创意平衡 |
 | 勇往直前V3.0 |
-| 魔脓空间站 |
+| 魔脓空间站 | *Monong Space Station* | Devil Space Station | Moneng Space |
 | 双重路径 |
-| 魔虬 |
+| 魔虬 | *The Devil Dragon* | Moqiu | Moqiu; Mo Qiu |
 | 绿坝图 |
 | 新春地图 |
 | 歧径 |
@@ -55,7 +57,7 @@
 | 虚实世界-奶茶 |
 | 虚实世界-货仓 |
 | 逻辑时代 |
-| 200516图 | *"200516"* |
+| 200516图 | *"200516"* | - | - |
 | 谜域雾都 |
 | 大恒战旗Extra |
 | 大恒战旗—即兴 |
@@ -119,7 +121,7 @@
 | 平衡大厦立体迷宫（困难版——围城）v1.3.2 |
 | 平衡大厦立体迷宫（困难版——盲打）v1.2.2 |
 | 平衡小径4.0 |
-| 180519图 |
+| 180519图 | *"180519"* | - | - |
 | 月光穿梭2.0 |
 | 蓝星序曲V1.3 |
 | 暂无名图 |
@@ -129,11 +131,11 @@
 | 仿真测试图3.0 |
 | 仿真测试图2.0 |
 | 仿真测试图 |
-| 天域迷径 |
-| 天地浮沉 |
+| 天域迷径 | *Skyland Mazes* | Sky maze | - |
+| 天地浮沉 | *Floating in Space* | Ups and downs | - |
 | 轮回之旅 |
 | 纸块Challenge-稳中求胜 |
-| 单轨维度 |
+| 单轨维度 | *Monorail Dimensions* | Monorail dimension | - |
 | *Hevel_01* | - | - | - |
 | *Small Level 1* | - | - | - |
 | 星汉乾坤 |
