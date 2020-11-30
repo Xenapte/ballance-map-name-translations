@@ -1,8 +1,10 @@
 **Note**: names of maps which already come with an English name, or have a creator-selected English name, are normally not translated again. 
 
+Map names are taken from [BCRC Map Searching Page](https://bcrc.info/maps/), which in turn gets the name from [Ballance Map Download Site](http://ballancemaps.ys168.com/). 
+
 Unnecessary version numbers in names should be simplified or dropped.
 
-Machine translations should come from [Google Translate](https://translate.google.com); they are listed here for auxiliary purposes, no matter how inaccurate and *ridiculous* they seem to be. As non-Chinese users may find it difficult to distinguish different Chinese characters, or their devices simply cannot display them, machine translators are their only option.
+Machine translations should come from [Google Translate](https://translate.google.com); they are listed here purely for auxiliary purposes, no matter how inaccurate and *ridiculous* they seem to be. As non-Chinese users may find it difficult to distinguish different Chinese characters, or their devices simply cannot display them, machine translators are their only option.
 
 | Original Name | English Name | *Machine Translation* | Other Names |
 | ---- | ---- | ---- | ---- |
@@ -10,7 +12,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 四面楚歌2 | 
 | 萤火之森 | *Firefly Forest* | CV | - |
 | 2010年代 | *The 2010s* | 2010s | - |
-| 星罗棋布 (星汉乾坤2) |
+| 星罗棋布 (星汉乾坤2) | *Scattered* | Dotted | - |
 | 天穹之旅 | *A journey to the sky* | Sky Tour | The travel under the sky dome |
 | 穿云之箭 | *Arrow crossing the clouds* | Cloud Piercing Arrow | - |
 | 镜花水月 | - | Mirror flower water moon | The moon mirrored in the water |
@@ -36,7 +38,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 魔虬 | *The Devil Dragon* | Moqiu | Moqiu; Mo Qiu |
 | 绿坝图 |
 | 新春地图 |
-| 歧径 |
+| 歧径 | *Routes* | Divergent path | - |
 | 云幻天桥 |
 | 迈出这一步 | *Take the leap* | Take this step | - |
 | *I Wanna Play Ballance* | - | - | - |
@@ -88,11 +90,11 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 平衡朋克2019 |
 | 轮回之旅2 |
 | 荣耀之盟 |
-| 机械迷阵 | Mazes of machines | Mechanical maze | - |
-| 全家福2 | Family Portrait 2 | Family Portrait 2 | - |
-| 乾坤五极（五边形） | - | Five poles of the universe (pentagon) | The five poles of the universe |
+| 机械迷阵 | *Mazes of machines* | Mechanical maze | - |
+| 全家福2 | *Family Portrait 2* | Family Portrait 2 | - |
+| 乾坤五极（五边形） | *Pentagons* | Five poles of the universe (pentagon) | The five poles of the universe |
 | *Hevel_10* | - | - | - |
-| Ballance制图视频教程演示关卡 | Mapping tutorial map | Ballance drawing video tutorial demo level | - |
+| Ballance制图视频教程演示关卡 | *Mapping tutorial map* | Ballance drawing video tutorial demo level | - |
 | 逻辑绕绕图 | - | Logic diagram | Logic Detour |
 | 完美思维3–场景版 |
 | 2019新地图 |
@@ -117,7 +119,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 巅峰时刻 |
 | 半个新图 |
 | 图纸图 |
-| 失落之城 | The Lost City | Lost City | - |
+| 失落之城 | *The Lost City* | Lost City | - |
 | 嘉年华2（极难版） |
 | 惊悚图 |
 | 平衡大厦立体迷宫（困难版——围城） |
