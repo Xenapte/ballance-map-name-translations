@@ -48,14 +48,14 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 晓雾将歇 |
 | 危崖边境 |
 | *All-We-Know* | - | - | - |
-| 望星城 |
+| 望星城 | *The Stargazing City* |
 | 地狱迷宫 |
 | 斯卡布罗集市 | *Scarborough Fair* | - | - |
 | 游戏人生 | *No Game No Life* | Game of Life | - |
-| 踏破虚空 |
+| 踏破虚空 | *Step Into the Void* |
 | 萌新快乐图 |
-| 三箱迷阵 |
-| 原野之上 |
+| 三箱迷阵 | *The Tri-box Labyrinth* |
+| 原野之上 | *Into the Wild* |
 | 虚实世界-微观 |
 | 虚实世界-工厂 |
 | 虚实世界-奶茶 |
@@ -67,7 +67,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 大恒战旗—即兴 |
 | 大恒战旗—星斗 |
 | “四中挑战”系列 (01~09) | *Sizhong Challenges* (01~09) | Four Challenges | - |
-| 云顶之弈 |
+| 云顶之弈 | *Celestial Tactics* |
 | 勇往直前4 |
 | 您先别急 |
 | 大恒战旗—仿原 |
@@ -137,7 +137,7 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 仿真测试图 |
 | 天域迷径 | *Skyland Mazes* | Sky maze | - |
 | 天地浮沉 | *Floating in Space* | Ups and downs | - |
-| 轮回之旅 |
+| 轮回之旅 | *The Reincarnation* |
 | 纸块Challenge-稳中求胜 |
 | 单轨维度 | *Monorail Dimensions* | Monorail dimension | - |
 | *Hevel_01* | - | - | - |
@@ -207,23 +207,23 @@ Machine translations should come from [Google Translate](https://translate.googl
 | *Ballance Wooden* | - | - | - |
 | 急速翻滚1 |
 | 急速翻滚2 |
-| 未命名图 |
+| 未命名图 | *The Untitled Map* |
 | 危机地带 | *Dangerous Area* | Crisis zone | - |
-| 钢轨迷宫 |
+| 钢轨迷宫 | 
 | 钢轨雾都 |
 | 七号迷城 |
 | 天空之城No.8 |
 | *Space Rail* (1, 2, 3) | - | - | - |
 | 全家福 |
-| 脑力风暴 |
+| 脑力风暴 | *The Brainstorm* |
 | 完美思维1 |
 | 死亡边缘1 |
 | 伪力量3 |
-| 急速下坠（困难版） |
-| 急速下坠（普通版） |
+| 急速下坠（困难版） | *Skydiving (Hard Ver.)* |
+| 急速下坠（普通版） | *Skydiving (Easy Ver.)*
 | 伪能力1 |
 | 伪能力2 |
-| 垂直迷阵 |
+| 垂直迷阵 | *The Vertical Maze* |
 | 勇往直前1 |
 | 勇往直前2 |
 | 灰城勿扰 |
@@ -241,9 +241,9 @@ Machine translations should come from [Google Translate](https://translate.googl
 | 迷阵关卡 |
 | 美丽图 |
 | 美丽美丽材质图 |
-| 不走回头路1 |
-| 不走回头路2 |
-| 不走回头路3 |
+| 不走回头路1 | *No Way Back 1* |
+| 不走回头路2 | *No Way Back 2* |
+| 不走回头路3 | *No Way Back 3* |
 | 棒冰图 |
 | 小小迷宫 |
 | 脓图 |
