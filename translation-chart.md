@@ -8,6 +8,8 @@ Machine translations should come from [Google Translate](https://translate.googl
 
 | Original Name | English Name | *Machine Translation* | Other Names |
 | ---- | ---- | ---- | ---- |
+| 都会十字 |
+| 小小的旅途 |
 | 大恒乐园 | *Daheng Paradise* | Daheng Paradise | - |
 | 四面楚歌2 | 
 | 萤火之森 | *Firefly Forest* | CV | - |
